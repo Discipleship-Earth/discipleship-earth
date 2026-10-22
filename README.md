@@ -8,6 +8,7 @@ Discipleship.Earth explores biblical lives through Scripture-centered profiles, 
 
 | Material | Where to begin |
 | --- | --- |
+| An introduction for public readers | [Welcome to Discipleship.Earth](PUBLIC-README.md) |
 | The original Twelve and their profile links | [Profile index](profiles/README.md) |
 | Scripture sourcing, narrative, and visual interpretation | [Proposed editorial standards](docs/editorial-standards.md) |
 | Milestones, decisions, and work still underway | [Development log](docs/development-log.md) |
